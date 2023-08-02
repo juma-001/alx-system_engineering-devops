@@ -1,1 +1,2 @@
-My preoject
+My project
+shell basics
